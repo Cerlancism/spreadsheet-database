@@ -1,0 +1,27 @@
+{
+  "name": "spreadsheet-database",
+  "version": "0.0.1",
+  "description": "Object database abstraction for Google Spreadsheet and Google Apps Script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cerlancism/spreadsheet-database.git"
+  },
+  "keywords": [
+    "Google",
+    "Apps",
+    "Script"
+  ],
+  "author": "Cerlancism",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cerlancism/spreadsheet-database/issues"
+  },
+  "homepage": "https://github.com/Cerlancism/spreadsheet-database#readme",
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.14"
+  }
+}
